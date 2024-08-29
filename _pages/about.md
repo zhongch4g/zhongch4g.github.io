@@ -43,17 +43,17 @@ Jiangxi University of Science and Technology in 2016 and M.E in Beijing Universi
 
 # 💻 Experience
 
-Graduate Teaching Assistant, 2024 Spring, CSE3320, CSE6350
-Graduate Teaching Assistant, 2023 Fall, CSE3320
-Graduate Teaching Assistant, 2023 Spring, CSE5360
-Research Intern, Tencent America LLC, 2022 Fall
-Graduate Research Assistant, 2022 Spring
-Graduate Research Assistant, 2021 Fall
-Grader, 2021 Summar, CSE1310
-Graduate Teaching Assistant, 2021 Spring, CSE4308
-Graduate Teaching Assistant, 2020 Fall, CSE5360
-Graduate Rearch Assistant, 2020 Spring
-Research and Development Intern, JD.com, Inc, 2017-2018
+- Graduate Teaching Assistant, 2024 Spring, CSE3320, CSE6350
+- Graduate Teaching Assistant, 2023 Fall, CSE3320
+- Graduate Teaching Assistant, 2023 Spring, CSE5360
+- Research Intern, Tencent America LLC, 2022 Fall
+- Graduate Research Assistant, 2022 Spring
+- Graduate Research Assistant, 2021 Fall
+- Grader, 2021 Summar, CSE1310
+- Graduate Teaching Assistant, 2021 Spring, CSE4308
+- Graduate Teaching Assistant, 2020 Fall, CSE5360
+- Graduate Rearch Assistant, 2020 Spring
+- Research and Development Intern, JD.com, Inc, 2017-2018
 
 # 💼 Services
 Journal Reviewer
