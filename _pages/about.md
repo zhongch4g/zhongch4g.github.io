@@ -29,9 +29,8 @@ Jiangxi University of Science and Technology in 2016 and M.E in Beijing Universi
 
 # 📝 Publications 
 ### Peer-reviewed Conference
-<a href="https://icde2024.github.io" target="_blank"><img src="https://img.shields.io/badge/ICDE-2024-blue?style=flat-square"></a> <u>**Chen Zhong**</u>, Qingqing Zhou, Yuxing Chen, Xingsheng Zhao, Kuang He, Anqun Pan, and Song Jiang, &quot;**IndeXY: A Framework for Constructing Indexes Larger than Memory**&quot;. In *Proceedings of the 40th IEEE International Conference on Data Engineering (ICDE'24), Utrecht, Netherlands, May 2024*. [[paper](http://zhongch4g.github.io/_publications/IndeXY.pdf)] [[github](https://github.com/zhongch4g/IndeXY)]
+<a href="https://icde2024.github.io" target="_blank"><img src="https://img.shields.io/badge/ICDE-2024-blue?style=flat-square"></a> <u>**Chen Zhong**</u>, Qingqing Zhou, Yuxing Chen, Xingsheng Zhao, Kuang He, Anqun Pan, and Song Jiang, &quot;**IndeXY: A Framework for Constructing Indexes Larger than Memory**&quot;. In *Proceedings of the 40th IEEE International Conference on Data Engineering (ICDE'24), Utrecht, Netherlands, May 2024*. [[paper](http://zhongch4g.github.io/files/IndeXY.pdf)] [[github](https://github.com/zhongch4g/IndeXY)]
 
-<a href="https://openreview.net/forum?id=o2axlPlXYY" target="_blank"><img src="https://img.shields.io/badge/ACMMM-2024-blue?style=flat-square"></a> Can Cui†, <u>Siteng Huang</u>†, Wenxuan Song, Pengxiang Ding, Zhang Min, Donglin Wang, &quot;**ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification**&quot;. In *Proceedings of the ACM Multimedia 2024*. [[OpenReview](https://openreview.net/forum?id=o2axlPlXYY)] [[github](https://github.com/Cuixxx/ProFD)]
 
 
 # 🎖 Honors and Awards
