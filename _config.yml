@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Chen Zhong (钟琛)"
 description              : "University of Texas at Arlington"
-repository               : "zhongch4g/zhongch4g.github.io
+repository               : "zhongch4g/zhongch4g.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -34,21 +34,21 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr            :
   facebook         :
   foursquare       :
-  github           : zhongch4g# e.g., "github username"
+  github           : "zhongch4g" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : zhongch4g # e.g., "linkedin username"
+  linkedin         : "zhongch4g" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : https://orcid.org/0000-0002-4098-6260 # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0002-4098-6260" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow     : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : 
