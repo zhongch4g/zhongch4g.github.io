@@ -29,11 +29,8 @@ Jiangxi University of Science and Technology in 2016 and M.E in Beijing Universi
 
 # 📝 Publications 
 
-<div class="badge">ICDE 2024</div> <div class="p1"> IndeXY: A Framework for Constructing Indexes Larger than Memory [ [paper](/_publications/IndeXY-%20A%20Framework%20for%20Constructing%20Indexes%20Larger%20than%20Memory.pdf) ] [ [source](https://github.com/zhongch4g/IndeXY) ]
-**Chen Zhong**, Qingqing Zhou, Yuxing Chen, Xingsheng Zhao, Kuang He, Anqun Pan, and Song Jiang
-</div>
+<a href="https://icde2024.github.io" target="_blank"><img src="https://img.shields.io/badge/ICDE-2024-blue?style=flat-square"></a> **Chen Zhong**, Qingqing Zhou, Yuxing Chen, Xingsheng Zhao, Kuang He, Anqun Pan, and Song Jiang, &quot;**IndeXY: A Framework for Constructing Indexes Larger than Memory**&quot;. In *Proceedings of the 40th IEEE International Conference on Data Engineering (ICDE'24), Utrecht, Netherlands, May 2024*. [[paper](/_publications/IndeXY-%20A%20Framework%20for%20Constructing%20Indexes%20Larger%20than%20Memory.pdf)] [[github](https://github.com/zhongch4g/IndeXY)]
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
