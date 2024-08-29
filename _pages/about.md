@@ -41,6 +41,20 @@ Jiangxi University of Science and Technology in 2016 and M.E in Beijing Universi
 
 <a href="https://www.systor.org/2021/" target="_blank"><img src="https://img.shields.io/badge/SYSTOR-2021-blue?style=flat-square"></a> <u>Chen Zhong</u>, Xingsheng Zhao, Song Jiang, &quot;**LIRS2: An Improved LIRS Replacement Algorithm**&quot;. In *Proceedings of the 14th ACM International Systems and Storage Conference (SYSTOR'21), June, 2021*. [[paper](http://zhongch4g.github.io/files/LIRS2.pdf)] [[github](https://github.com/zhongch4g/LIRS2)]
 
+# 💻 Experience
+
+Graduate Teaching Assistant, 2024 Spring, CSE3320, CSE6350
+Graduate Teaching Assistant, 2023 Fall, CSE3320
+Graduate Teaching Assistant, 2023 Spring, CSE5360
+Research Intern, Tencent America LLC, 2022 Fall
+Graduate Research Assistant, 2022 Spring
+Graduate Research Assistant, 2021 Fall
+Grader, 2021 Summar, CSE1310
+Graduate Teaching Assistant, 2021 Spring, CSE4308
+Graduate Teaching Assistant, 2020 Fall, CSE5360
+Graduate Rearch Assistant, 2020 Spring
+Research and Development Intern, JD.com, Inc, 2017-2018
+
 # 💼 Services
 Journal Reviewer
 - IEEE transactions on computers.
