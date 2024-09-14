@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-A Ph.D. candidate at Department of Computer Science Engineering, University of Texas at Arlington, supervised by [Professor Song Jiang](https://jiangs.utasites.cloud). He received B.E. in Software Engineering from 
-Jiangxi University of Science and Technology in 2016 and M.E in Beijing University of Posts and Telecommunications in 2019. His interests include caching, indexing, and high speed key-value store.
+# About
+A Ph.D. candidate in Department of Computer Science and Engineering at the University of Texas at Arlington, supervised by [Professor Song Jiang](https://jiangs.utasites.cloud). He received B.E. in Software Engineering from Jiangxi University of Science and Technology in 2016 and M.E in Beijing University of Posts and Telecommunications in 2019. His interests are in the areas of caching, indexing, and high performance key-value stores.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 🔥 News
+# 📢 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
