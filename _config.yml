@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chen Zhong (钟琛)"
+title                    : "Chen Zhong"
 description              : "University of Texas at Arlington"
 repository               : "zhongch4g/zhongch4g.github.io"
 google_scholar_stats_use_cdn : true
