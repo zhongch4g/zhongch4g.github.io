@@ -42,20 +42,19 @@ A Ph.D. candidate in Department of Computer Science and Engineering at the Unive
 <a href="https://www.systor.org/2021/" target="_blank"><img src="https://img.shields.io/badge/SYSTOR-2021-blue?style=flat-square"></a> <u>Chen Zhong</u>, Xingsheng Zhao, Song Jiang, &quot;**LIRS2: An Improved LIRS Replacement Algorithm**&quot;. In *Proceedings of the 14th ACM International Systems and Storage Conference (SYSTOR'21), June, 2021*. [[paper](http://zhongch4g.github.io/files/LIRS2.pdf)] [[github](https://github.com/zhongch4g/LIRS2)]
 
 # 💻 Experience
-- Graduate Teaching Assistant, 2024 Fall, CSE3320 OPERATING SYSTEMS
-- Graduate Teaching Assistant, 2024 Spring, CSE3320 OPERATING SYSTEMS
-- Graduate Teaching Assistant, 2024 Spring, CSE6350 ADVANCED TOPICS IN COMPUTER ARCHITECTURE
-- Graduate Teaching Assistant, 2023 Fall, CSE3320 OPERATING SYSTEMS
-- Graduate Teaching Assistant, 2023 Spring, CSE5360 ARTIFICIAL INTELLIGENCE
-- Research Intern, Tencent America LLC, 2022 Fall
-- Graduate Research Assistant, 2022 Spring
-- Graduate Research Assistant, 2021 Fall
-- Grader, 2021 Summar, CSE1310 INTRODUCTION TO COMPUTERS \& PROGRAMMING
-- Graduate Teaching Assistant, 2021 Spring, CSE4308 ARTIFICIAL INTELLIGENCE
-- Graduate Teaching Assistant, 2020 Fall, CSE5360 ARTIFICIAL INTELLIGENCE
-- Graduate Rearch Assistant, 2020 Spring
-- Research and Development Intern, JD.com, Inc, 2017-2018
+- Graduate Teaching Assistant (2020-2025)
+  - CSE3320 Operating Systems: Fall 2023, Spring 2024, Fall 2024, Spring 2025
+  - CSE6350 Computer Architecture: Spring 2024
+  - CSE4308/CSE5360 Artificial Intelligence: Fall 2020, Spring 2021, Spring 2023
+  - CSE1310 Intro Programming: Summer 2021
+
+- Graduate Research Assistant
+  - Spring 2022, Fall 2021, Spring 2020
+
+- Industry Experience
+  - Tencent America LLC - Database Research and Development Intern (Fall 2022) 
+  - JD.com, Inc - Research and Development Intern (2017-2018)
 
 # 💼 Services
-Journal Reviewer
-- IEEE transactions on computers.
+- FAST '25: Artifact Evaluation Committee (Dec 2024)
+- IEEE Transactions on Computers: Journal Reviewer (Nov 2022)
