@@ -26,7 +26,7 @@ Chen Zhong received his Ph.D. in Computer Science and Engineering from the Unive
 
 # 📝 Publications 
 ### Peer-reviewed Conference
-<a href="SYSTOR '25: Proceedings of the 18th ACM International Systems and Storage Conference" target="_blank"><img src="https://img.shields.io/badge/SYSTOR-2025-blue?style=flat-square"></a> <u>Chen Zhong</u>, Wenguang Wang, and Song Jiang, &quot;**SAKER: A Software Accelerated Key-value Service via the NVMe Interface**&quot;. In *Proceedings of the 18th ACM International Systems and Storage Conference, Virtual, Sep 2025*. [[paper](http://zhongch4g.github.io/files/SAKER.pdf)] [[github](https://github.com/zhongch4g/RocksDB-KV)]
+<a href="https://dl.acm.org/doi/10.1145/3757347.3759143" target="_blank"><img src="https://img.shields.io/badge/SYSTOR-2025-blue?style=flat-square"></a> <u>Chen Zhong</u>, Wenguang Wang, and Song Jiang, &quot;**SAKER: A Software Accelerated Key-value Service via the NVMe Interface**&quot;. In *Proceedings of the 18th ACM International Systems and Storage Conference, Virtual, Sep 2025*. [[paper](http://zhongch4g.github.io/files/SAKER.pdf)] [[github](https://github.com/zhongch4g/RocksDB-KV)]
 
 <a href="https://ieeexplore.ieee.org/document/10598080" target="_blank"><img src="https://img.shields.io/badge/ICDE-2024-blue?style=flat-square"></a> <u>Chen Zhong</u>, Qingqing Zhou, Yuxing Chen, Xingsheng Zhao, Kuang He, Anqun Pan, and Song Jiang, &quot;**IndeXY: A Framework for Constructing Indexes Larger than Memory**&quot;. In *Proceedings of the 40th IEEE International Conference on Data Engineering (ICDE'24), Utrecht, Netherlands, May 2024*. [[paper](http://zhongch4g.github.io/files/IndeXY.pdf)] [[github](https://github.com/zhongch4g/IndeXY)]
 
