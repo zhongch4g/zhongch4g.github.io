@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chen Zhong (钟琛)"
   avatar           : "images/photo2.png"
-  bio              : "Ph.D. candidate"
-  location         : "Texas, United States"
+  bio              : "Ph.D."
+  location         : "California, United States"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ajgHIBYAAAAJ"
