@@ -22,11 +22,11 @@ Chen Zhong received his Ph.D. in Computer Science and Engineering from the Unive
 
 
 # 📢 News
-- *2025/07/14*: &nbsp; Joined Oracle's core database cache engine team!
+- *2025/07/14*: &nbsp; Joined Oracle's core database cache engine team.
 
 # 📝 Publications 
 ### Peer-reviewed Conference
-<a href="https://vldb.org/2026/" target="_blank"><img src="https://img.shields.io/badge/VLDB-2026-blue?style=flat-square"></a> Jian Zhou, Luna Wang, Shuaihua Zhao, <u>Chen Zhong</u>, and Song Jiang, &quot;**LiBox: A Learned Index as an Array to Minimize Last-Mile Search**&quot;. will appear in Proceedings of the 52nd International Conference on Very Large Data Bases (VLDB 2026), August 2026, Boston, MA, USA.
+<a href="https://vldb.org/2026/" target="_blank"><img src="https://img.shields.io/badge/VLDB-2026-blue?style=flat-square"></a> Jian Zhou, Luna Wang, Shuaihua Zhao, <u>Chen Zhong</u>, and Song Jiang, &quot;**LiBox: A Learned Index as an Array to Minimize Last-Mile Search**&quot;. In Proceedings of the 52nd International Conference on Very Large Data Bases (VLDB 2026), August 2026, Boston, MA, USA. [[paper](https://www.vldb.org/pvldb/vol19/p836-jiang.pdf)]
 
 <a href="https://dl.acm.org/doi/10.1145/3757347.3759143" target="_blank"><img src="https://img.shields.io/badge/SYSTOR-2025-blue?style=flat-square"></a> <u>Chen Zhong</u>, Wenguang Wang, and Song Jiang, &quot;**SAKER: A Software Accelerated Key-value Service via the NVMe Interface**&quot;. In *Proceedings of the 18th ACM International Systems and Storage Conference, Virtual, Sep 2025*. [[paper](http://zhongch4g.github.io/files/SAKER.pdf)] [[github](https://github.com/zhongch4g/RocksDB-KV)]
 
@@ -57,5 +57,6 @@ Chen Zhong received his Ph.D. in Computer Science and Engineering from the Unive
   - JD.com, Inc - Research and Development Intern (2017-2018)
 
 # 💼 Services
+- IEEE Cloud Summit: Reviewer (Apr 2026)
 - FAST '25: Artifact Evaluation Committee (Dec 2024)
 - IEEE Transactions on Computers: Journal Reviewer (Nov 2022)
