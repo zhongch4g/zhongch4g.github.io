@@ -59,6 +59,7 @@ Chen Zhong received his Ph.D. in Computer Science and Engineering from the Unive
   - JD.com, Inc - Research and Development Intern (2017-2018)
 
 # 💼 Services
-- IEEE Cloud Summit: Reviewer (Apr 2026)
+- IEEE/ACM ICCAD 2026: Reviewer (Jun 2026)
+- IEEE Cloud Summit: PC Member (Apr 2026)
 - FAST '25: Artifact Evaluation Committee (Dec 2024)
 - IEEE Transactions on Computers: Journal Reviewer (Nov 2022)
